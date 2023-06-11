@@ -3,9 +3,8 @@
 - Hands-on technology leader who believes in collaboration, consensus building, team success and leadership by example. Led multi-stream, multi-party global teams around Agile and SAFe principles, and demonstrated productivity improvement multiple times.
 - Designed cloud vendor-neutral and cloud centric (AWS Cloud) solutions.
 - Designed many innovative solutions and prototypes to complex business and system problems and taken them through complete software development lifecycle for large implementations.
-- Critical problem-solving ability to visualize and articulate the creative solution options involving multiple business areas, technologies and practical constraints.
 - Manage with big picture and outcome driven approach while balancing the tactical and strategical goals. 
-- Manage scope, assess impact, estimate, deliver and transition large scale, complex business transformation projects.
+  - Manage scope, assess impact, estimate, deliver and transition large scale, complex business transformation projects.
 - Coach and mentor by example, knowledge sharing, opportunity, motivation, individual assessment, team building, relationship management with long-term impact.
 
 ### Core Competencies
